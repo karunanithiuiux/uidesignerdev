@@ -63,7 +63,7 @@ Component-driven design · Pixel-perfect implementation · Accessibility-first d
 
 ### 📊 GitHub & Design Stats  
 ![Karunanithi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=karunanithi-uiux-developer&show_icons=true&theme=radical)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karunanithi-uiux-developer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karunanithi-uiux-developer&layout=compact&theme=radical)]()  
 [![Karunanithi’s activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karunanithi-uiux-developer&bg_color=000000&color=ffffff&line=00FF99&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
