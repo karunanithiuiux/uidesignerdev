@@ -3,8 +3,8 @@
 
 🔭 Check out my [**Portfolio**](https://karunanithi.framer.website/)  
 🌱 Currently exploring **advanced UX systems**, **motion design**, and **AI-driven workflows**.  
-💼 Front-End Developer @ [**Firebee Techno Services**](https://www.firebeetechnoservices.com/)  
-🖌️ Designing & building **responsive**, **accessible**, and **engaging web experiences** using Figma, React, and modern UI frameworks.  
+💼 UI/UX Designer & Front-End Developer @ [**Firebee Techno Services**](https://www.firebeetechnoservices.com/)  
+🖌️ Designing & building **responsive**, **accessible**, and **engaging web experiences** using Figma photoshop illustration Canva,Laraval, Angular, React, and modern UI frameworks.  
 ⚡ Fun fact: I love transforming user problems into visually stunning digital stories.
 
 ---
